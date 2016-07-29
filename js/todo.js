@@ -63,7 +63,7 @@ window.onload = function() {
         para.appendChild(node);
         _$('ul').appendChild(para);
 
-        add();
+        add()
     };
 
 
