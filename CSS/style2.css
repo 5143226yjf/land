@@ -1,0 +1,48 @@
+*{margin:0 auto;}
+.content{
+    width:500px;
+    height:450px;
+    border:1px solid black;
+    clear:both;
+    margin-top: 20px;
+}
+.name{
+    width:350px;
+    height:42px;
+    margin:60px 0 0 80px;
+}
+.pass{
+    width:350px;
+    height:42px;
+    margin:40px 0 0 80px;
+}
+h6{
+    font-size:20px;
+    display:inline-block;
+    float:left;
+    text-align: center;
+    line-height: 42px;
+}
+.srk{
+    width:300px;
+    height:40px;
+    border:1px solid black;float:right;
+}
+.correct{
+    width:200px;
+    height:40px;
+    margin:40px 0 0 160px;
+}
+a{
+    font-size: 18px;
+    overflow: hidden;
+    line-height: 40px;
+
+}
+button{
+    width:100px;
+    height:50px;
+    background: #fff;
+    border:1px solid #000;
+    margin:50px 0 0 200px;
+}
